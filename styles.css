@@ -1,0 +1,75 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+body { 
+  background-image:url('IMAGES/BACKGROUND.gif'); 
+  background-repeat:repeat; 
+}
+.enter{
+  margin-top: 40%;
+  margin-left: 80%;
+}
+h1{
+  font-family: 'agate', 'papyrus', 'Times New Roman', Times, serif;
+  white-space: nowrap;
+  font-size: 4.5em;
+  color:red;
+}
+h2{
+  font-family: 'agate', 'papyrus', 'Times New Roman', Times, serif;
+  white-space: nowrap;
+  font-size: 2em;
+  color:red;
+}
+
+a{
+  font-family: 'agate', 'papyrus', 'Times New Roman', Times, serif;
+  font-size: 1.8em;
+  margin-left:0.5em;
+  margin-right:0.5em;
+  text-shadow: 0.1em 0.1em 0.15em black;
+  text-decoration: none;
+  color:white;
+}
+
+.butt{
+	background-color: red;
+	font-size: 2rem;
+	color:White;
+	font-family: 'agate', 'papyrus', 'Times New Roman', Times, serif;
+	padding: 1rem 2rem 1rem 2rem;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 1.3rem;
+	height: 4rem;
+    width: 9rem;
+	border-radius: 0.3rem;
+	cursor: pointer;
+	border: none;
+	float: center;
+	opacity: 1;
+	transition: 0.3s;
+}
+
+
+body {
+	background-color: white;
+	margin: 0;
+}
+
+.center {
+	padding: 4.4rem;
+	border: none;
+	text-align: center;
+}
+
+.navbar {
+	overflow: hidden;
+	background-color: orange;
+	font-family: 'agate', 'papyrus', 'Times New Roman', Times, serif;
+  }
+  
